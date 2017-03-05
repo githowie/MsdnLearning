@@ -1,0 +1,4 @@
+C:\Programming\githowie\MSNET\msdn\Delegates\bin\Debug\Delegates.exe
+C:\Programming\githowie\MSNET\msdn\Delegates\bin\Debug\Delegates.pdb
+C:\Programming\githowie\MSNET\msdn\Delegates\obj\x86\Debug\Delegates.exe
+C:\Programming\githowie\MSNET\msdn\Delegates\obj\x86\Debug\Delegates.pdb

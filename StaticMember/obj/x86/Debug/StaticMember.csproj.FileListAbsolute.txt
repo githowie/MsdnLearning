@@ -1,0 +1,4 @@
+C:\Programming\githowie\MSNET\msdn\HelloWorld\StaticMember\bin\Debug\StaticMember.exe
+C:\Programming\githowie\MSNET\msdn\HelloWorld\StaticMember\bin\Debug\StaticMember.pdb
+C:\Programming\githowie\MSNET\msdn\HelloWorld\StaticMember\obj\x86\Debug\StaticMember.exe
+C:\Programming\githowie\MSNET\msdn\HelloWorld\StaticMember\obj\x86\Debug\StaticMember.pdb

@@ -1,0 +1,4 @@
+C:\Programming\githowie\MSNET\msdn\HelloWorld\bin\Debug\hello_world.exe
+C:\Programming\githowie\MSNET\msdn\HelloWorld\bin\Debug\hello_world.pdb
+C:\Programming\githowie\MSNET\msdn\HelloWorld\obj\x86\Debug\hello_world.exe
+C:\Programming\githowie\MSNET\msdn\HelloWorld\obj\x86\Debug\hello_world.pdb
